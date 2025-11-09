@@ -187,7 +187,7 @@ function App() {
         <div className="header-content">
           <div className="header-title">
             <h1>HUMAIN</h1>
-            <p className="subtitle">Voice Cloning Lab</p>
+            <p className="subtitle">Voice Clone Studio</p>
           </div>
           <button 
             className="api-btn"
