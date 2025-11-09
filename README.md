@@ -9,7 +9,7 @@
 - 🧠 **Automatic Transcription:** Speech-to-text processing for reference alignment.
 - 🗣️ **Personalized Speech Generation:** Generate lifelike speech using cloned voices.
 - 🧩 **Modular Design:** Separate backend (Python) and frontend (React/Next.js).
-- 🧪 **Research-Oriented:** Built for experimentation and AI model testing within MCR Lab.
+- 🧪 **Research-Oriented:** Built for experimentation and AI model testing within HUMAIN.
 
 ---
 
@@ -23,7 +23,7 @@ conda activate <env-name>
 
 # 2. Clone the Repository
 git clone https://github.com/muhammadsaadkhankor/HUMAIN-voice-clone-studio.git
-cd MCRLab_voice_cloner
+cd HUMAIN-voice-cloner-studio
 
 # 3. Install Backend Dependencies
 pip install -r backend_requirements.txt
