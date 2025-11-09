@@ -1,7 +1,6 @@
 # 🎙️ HUMAIN Voice Clone Studio
 
-**An advanced AI-powered voice cloning system developed at MCR Lab** for research on realistic, expressive, and adaptive speech synthesis.  
-The system allows users to input their own voice samples along with transcriptions to generate personalized speech models — similar in concept to commercial TTS systems, but **built for experimentation, customization, and academic exploration**.
+**HUMAIN Voice Clone Studio is an advanced AI-powered voice cloning system designed for creating realistic, expressive, and adaptive speech models. The platform enables users to record or upload voice samples, automatically generate transcriptions, and fine-tune personalized TTS voices capable of natural, emotion-aware speech synthesis**.
 
 ---
 
